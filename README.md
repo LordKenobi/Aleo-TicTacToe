@@ -154,14 +154,19 @@ Now go to https://github.com/AleoHQ/leo/issues
 Choose the "New Issue" Leo Contributor Badge, or if it's not there, just choose "Open a blank issue" and post a message.
 
 
-_Hi Aleo team! I’m claiming my contributor badge for completing the New Developer Toolkit tutorial.
+__Hi Aleo team! I’m claiming my contributor badge for completing the New Developer Toolkit tutorial._
 
-Github Username: (your GitHub username)
+_Github Username: (your GitHub username)_
 
-Tutorial Repo: (link to your repository)
+_Tutorial Repo: (link to your repository)_
 
-Requested badge: Tutorial_
+_Requested badge: Tutorial__
 
+
+
+
+
+## **THAT'S ALL**
 
 
 
